@@ -3,9 +3,9 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![GitHub last commit](https://img.shields.io/github/last-commit/YoussefFakhi/YosGames-game-store?color=blue&logo=github)](https://github.com/YoussefFakhi/YosGames-game-store/commits/main)
-[![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/YoussefFakhi/YosGames-game-store/main.yml?logo=github)](https://github.com/YoussefFakhi/YosGames-game-store/actions)
 [![GitHub issues](https://img.shields.io/github/issues/YoussefFakhi/YosGames-game-store?logo=github)](https://github.com/YoussefFakhi/YosGames-game-store/issues)
 [![GitHub pull requests](https://img.shields.io/github/issues-pr/YoussefFakhi/YosGames-game-store?logo=github)](https://github.com/YoussefFakhi/YosGames-game-store/pulls)
+[![GitHub stars](https://img.shields.io/github/stars/YoussefFakhi/YosGames-game-store?style=social)](https://github.com/YoussefFakhi/YosGames-game-store/stargazers)
 
 A modern, full-stack e-commerce platform for digital games, built with React and Laravel. Experience seamless game browsing, secure checkout, and personalized recommendations.
 
