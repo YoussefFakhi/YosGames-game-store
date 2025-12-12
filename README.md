@@ -108,7 +108,7 @@ php artisan test
 ## 🛠️ Project Structure
 
 ```
-game-store3/
+YosGames-game-store/
 ├── gaming/                 # Frontend (React)
 │   ├── public/            # Static files
 │   ├── src/               # Source code
