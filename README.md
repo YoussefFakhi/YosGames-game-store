@@ -2,9 +2,11 @@
 
 Unleash Gaming Power, Elevate Your Play Experience
 
-![Last Commit](https://img.shields.io/badge/last%20commit-today-blue)
-![JavaScript Percentage](https://img.shields.io/badge/javascript-52.8%25-yellow)
-![Languages](https://img.shields.io/badge/languages-5-blue)
+![GitHub last commit](https://img.shields.io/github/last-commit/YoussefFakhi/YosGames-game-store?color=blue)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/YoussefFakhi/YosGames-game-store)
+![GitHub repo size](https://img.shields.io/github/repo-size/YoussefFakhi/YosGames-game-store)
+![GitHub language count](https://img.shields.io/github/languages/count/YoussefFakhi/YosGames-game-store)
+![GitHub top language](https://img.shields.io/github/languages/top/YoussefFakhi/YosGames-game-store?color=yellow)
 
 ### Built with the tools and technologies:
 
@@ -59,6 +61,12 @@ YOSGAMES-GAME-STORE is a modern, full-stack e-commerce platform designed specifi
   - Reusable components
   - API-first approach
   - Scalable codebase
+
+## Project Status
+
+[![GitHub issues](https://img.shields.io/github/issues/YoussefFakhi/YosGames-game-store)](https://github.com/YoussefFakhi/YosGames-game-store/issues)
+[![GitHub forks](https://img.shields.io/github/forks/YoussefFakhi/YosGames-game-store)](https://github.com/YoussefFakhi/YosGames-game-store/network)
+[![GitHub stars](https://img.shields.io/github/stars/YoussefFakhi/YosGames-game-store)](https://github.com/YoussefFakhi/YosGames-game-store/stargazers)
 
 ## Getting Started
 
@@ -118,5 +126,7 @@ vendor/bin/phpunit
 ```
 
 ## License
+
+[![GitHub license](https://img.shields.io/github/license/YoussefFakhi/YosGames-game-store)](https://github.com/YoussefFakhi/YosGames-game-store/blob/main/LICENSE)
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
