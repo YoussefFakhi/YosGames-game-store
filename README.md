@@ -9,7 +9,6 @@
 
 A modern, full-stack e-commerce platform for digital games, built with React and Laravel. Experience seamless game browsing, secure checkout, and personalized recommendations.
 
-![YOSGAMES Screenshot](https://via.placeholder.com/1200x600/1a1a2e/e94560?text=YOSGAMES+Showcase)
 
 ## ✨ Features
 
